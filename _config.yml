@@ -16,7 +16,7 @@ comments:
 google_analytics:
 
 # Register service worker
-service_worker: true
+service_worker: false
 
 # Local search with atom.xml, dependency hexo-generator-feed plugin
 local_search: true
