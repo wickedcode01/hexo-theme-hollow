@@ -1,5 +1,5 @@
 # Camera icon for website
-baseurl:
+baseurl: https://wickedcode01.github.io/Jimmy/
 
 # Default post title
 default_post_title: Halo
@@ -10,13 +10,13 @@ date_format: YYYY 年 MM 月 DD 日
 # Comment.
 comments:
   # Disqus comment
-  disqus_shortname:
+  disqus_shortname: jimmys-blog-4
 
 # Google Analytics Tracking ID
 google_analytics:
 
 # Register service worker
-service_worker: false
+service_worker: true
 
 # Local search with atom.xml, dependency hexo-generator-feed plugin
 local_search: true
